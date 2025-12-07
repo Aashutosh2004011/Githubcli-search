@@ -6,10 +6,6 @@ A TypeScript Node.js command-line application that fetches and displays data fro
 
 **Repository URL**: [https://github.com/Aashutosh2004011/Githubcli-search](https://github.com/Aashutosh2004011/Githubcli-search)
 
-## Assignment Details
-
-This project is built for the **GLOBAL TREND API Integration Internship Assignment**. It demonstrates API handling, TypeScript development, caching strategies, and clean code architecture.
-
 ## Features
 
 - **Two API Endpoints**: Uses GitHub's `/search/repositories` and `/users/{username}/repos` endpoints
