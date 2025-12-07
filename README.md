@@ -326,14 +326,3 @@ MIT
 ## Author
 
 Aashutosh Singh
-
-## Submission
-
-This project fulfills all requirements of the Global Trend API Integration Internship Assignment:
-- ✅ Uses public REST API (GitHub)
-- ✅ Fetches from multiple endpoints
-- ✅ Implements caching (JSON file)
-- ✅ Provides CLI with filtering
-- ✅ Shows detailed view by ID
-- ✅ Comprehensive error handling
-- ✅ Complete documentation
