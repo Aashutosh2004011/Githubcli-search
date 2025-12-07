@@ -2,6 +2,10 @@
 
 A TypeScript Node.js command-line application that fetches and displays data from the GitHub REST API with caching, filtering, and comprehensive error handling.
 
+## GitHub Repository
+
+**Repository URL**: [https://github.com/Aashutosh2004011/Githubcli-search](https://github.com/Aashutosh2004011/Githubcli-search)
+
 ## Assignment Details
 
 This project is built for the **GLOBAL TREND API Integration Internship Assignment**. It demonstrates API handling, TypeScript development, caching strategies, and clean code architecture.
@@ -39,9 +43,10 @@ This project is built for the **GLOBAL TREND API Integration Internship Assignme
 
 ### Installation
 
-1. Clone or download this repository:
+1. Clone this repository:
 ```bash
-cd GlobalTrend
+git clone https://github.com/Aashutosh2004011/Githubcli-search.git
+cd Githubcli-search
 ```
 
 2. Install dependencies:
